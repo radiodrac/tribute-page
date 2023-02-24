@@ -1,2 +1,2 @@
 # tribute-page
-Tribute Page project for FreeCodeCamp course
+Tribute Page project for freeCodeCamp course
